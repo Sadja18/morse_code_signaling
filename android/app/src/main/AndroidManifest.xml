@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.morse_code_signal">
+    package="com.sadja.morse_code_signal">
    <application
-        android:label="morse_code_signal"
+        android:label="Morse Code Signal"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/launcher_icon">
         <activity
             android:name=".MainActivity"
             android:exported="true"
